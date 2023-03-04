@@ -1,0 +1,10 @@
+1. Node js is a single threaded.(1 time me 1 hi command run karti hai so it's single threaded)
+
+Q2. Node Js is sync or async ? 
+Ans - Async
+
+Async => In Async, second task do not wait to finish First task.
+
+Sync => In sync operations tasks are performed one at a time
+
+API means => Application programming interface.
