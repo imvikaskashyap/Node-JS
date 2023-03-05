@@ -15,6 +15,6 @@ fs.writeFileSync("vk.txt", "vk kashyap");
 console.log(__dirname);
 console.log(__filename);
 
-// let chalk = require("chalk");
+let chalk = require("chalk");
 
-// console.log(chalk.blue("Hello worlds!"));
+console.log(chalk.blue("Hello worlds!"));
